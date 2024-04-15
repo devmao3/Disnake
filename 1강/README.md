@@ -12,7 +12,7 @@
 1. 먼저 폴더를 만들고 거기 안에 main.py 파일을 생성한다.
 2. 파일 탐색기 에서 위 위치를 눌러서 cmd를 입력한다.
 3. ![image](https://github.com/devmao3/Disnake/assets/167006209/ea73af13-d954-457d-b0e2-b49aeff226b8)
- 이렇게 뜨면 위아 같이 ```code. ``` 를 입력해준다.
+ 이렇게 뜨면 위아 같이 ```code . ``` 를 입력해준다.
 4. 그러면 창이 뜰텐데 옆에 있는 main.py를 눌러준다 ![image](https://github.com/devmao3/Disnake/assets/167006209/aa1fc896-221c-4f4d-8ee2-c61474eb30b2)
 5. 거기다가 이렇게 붙여 넣어 준다.
 ```
