@@ -1,4 +1,4 @@
-# 2강 / 명령어와 버튼 제작하기!
+# 2강 / 명령어 제작하기!
 ----
 
 ## 준비물 : Vscode ( 비쥬얼 스튜디오 코드 ) , Python, 1강의 main.py
@@ -32,3 +32,5 @@ async def 명령어이름(inter):
 4. 이 코드는 ```@bot.event
 async def on_ready():
     print("봇이 준비 됬습니다")``` 이거 아래로 해주세요.
+
+5. 끝
